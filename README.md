@@ -25,26 +25,6 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
 
 ---
 
-## 💼 Experience
-
-### 🔹 Backend Engineer @ UniSphere
-**Gurugram, Haryana** | *May 2025 – Present*
-- Developing backend infrastructure for a university-wide management platform covering mess menu, internships, listings, and events
-- Integrating scalable REST APIs using Node.js and PostgreSQL
-- Serving 400-500 requests per minute for 3k+ users with secure, role-based access
-
-### 🔹 React Native Developer @ AroundYou
-**Remote** | *April – June 2025*
-- Built and managed admin-side features for a nightlife app enabling club reservations and event bookings
-- Implemented Supabase as backend-as-a-service for data sync and authentication
-
-### 🔹 Flutter Developer @ USTART
-**Gurugram, Haryana** | *November 2024 – Present*
-- Developed production-ready mobile apps for a ride-sharing startup
-- Integrated real-time location tracking and booking workflows
-
----
-
 ## 💻 Technical Skills
 
 ### Languages
