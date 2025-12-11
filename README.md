@@ -45,15 +45,6 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
 
 ---
 
-## 🎓 Education
-
-**B.Tech in Computer Science**  
-BML Munjal University | 2023–2027 | **CGPA: 8.6**
-
-**Relevant Coursework:** DSA & OOPS in Java, Computer Networks, Cloud Computing, Operating Systems, DBMS, App & Web Development
-
----
-
 ## 💻 Technical Skills
 
 ### Languages
@@ -89,38 +80,6 @@ BML Munjal University | 2023–2027 | **CGPA: 8.6**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Savera App — Club Management System
-An app for a university charity club that teaches village children. Features include:
-- Daily attendance tracking
-- Study progress monitoring
-- Learning material uploads
-- End-to-end club activity management
-
-### 📊 Data Insight Software — Non-Technical Data Analytics Tool
-A Flutter + Flask based tool allowing non-coders to perform deep data analysis through:
-- Intuitive UI for data exploration
-- Intelligent backend logic
-- Advanced analytics capabilities
-
-### 🎮 PlayPulse — Game Platform with Server-Driven UI
-Built a game platform with Server-Driven UI enabling:
-- Dynamic interface updates without app redeployment
-- Modular server-client communication
-- Fast, scalable content delivery
-- Optimized performance
-
----
-
-## 🏆 Honors & Achievements
-
-- 🥇 **1st Position** at Innoquest Hackathon organized by Reskilll at Microsoft, Gurgaon — Built CharitEase, a social impact app connecting NGOs and volunteers
-- 🎤 **Invited Speaker** at college level event on GitHub
-- 📚 Continuously deepening expertise in Flutter, backend systems, and deployment practices through advanced coursework and real-world app projects
 
 ---
 
