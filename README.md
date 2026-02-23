@@ -15,7 +15,7 @@
 
 Aspiring Software Engineer with practical experience in full-stack mobile development, enthusiastic about contributing to significant software products while enhancing skills in backend systems and scalable architectures. Additionally, experienced in working with servers and virtual machines.
 
-- 🔭 Currently working as **Backend Engineer at UniSphere** and **Flutter Developer at USTART**
+- 🔭 Currently working as **Backend Engineer at UniSphere**
 - 🌱 Deepening expertise in **Flutter, Backend Systems, and Deployment Practices**
 - 💼 Previously worked as **React Native Developer at AroundYou**
 - 💬 Ask me about **Mobile Development, Backend Systems, Cloud Computing**
