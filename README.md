@@ -20,7 +20,6 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
 - 💼 Previously worked as **React Native Developer at AroundYou**
 - 💬 Ask me about **Mobile Development, Backend Systems, Cloud Computing**
 - 📫 How to reach me: **akashkumar786147@gmail.com**
-- 🌐 Portfolio: **[www.akash-choudhary.tech](https://www.akash-choudhary.tech)**
 - 🎓 B.Tech in Computer Science at **BML Munjal University** | CGPA: 8.6
 
 ---
@@ -82,7 +81,7 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash786147&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Akash's Trophies" />
+  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=Akash786147&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Akash's Trophies" />
 </p>
 
 ---
@@ -103,9 +102,6 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
   </a>
   <a href="https://www.linkedin.com/in/akash-choudhary-29a451289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.akash-choudhary.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:akashkumar786147@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
