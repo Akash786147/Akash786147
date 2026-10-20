@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring Software Engineer | Full-Stack Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Mobile+Developer;Backend+Engineer+%7C+Flutter+%26+React+Native+Developer;Building+Scalable+Solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Mobile+Developer;Backend+Engineer+%7C+Flutter+%26+React+Native+Developer;Building+Scalable+Solutions!" alt="Animated introduction text for Akash Choudhary's profile" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash786147&label=Profile%20views&color=0e75b6&style=flat" alt="Akash786147" />
+  <img src="https://komarev.com/ghpvc/?username=Akash786147&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter for Akash786147" />
 </p>
 
 ---
@@ -70,11 +70,11 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash786147&theme=radical&hide_border=true" alt="Akash's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Akash786147&theme=radical&hide_border=true" alt="Akash's GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash786147&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash786147&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top programming languages used by Akash" />
 </p>
 
 ---
