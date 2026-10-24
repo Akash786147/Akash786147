@@ -22,6 +22,14 @@ Aspiring Software Engineer with practical experience in full-stack mobile develo
 - 📫 How to reach me: **akashkumar786147@gmail.com**
 - 🎓 B.Tech in Computer Science at **BML Munjal University** | CGPA: 8.6
 
+## 🌐 Portfolio Website
+
+<p align="center">
+  <a href="https://akashch.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20akashch.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Akash's Portfolio Website" />
+  </a>
+</p>
+
 ---
 
 ## 💻 Technical Skills
